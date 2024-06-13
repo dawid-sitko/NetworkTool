@@ -1,0 +1,8 @@
+IP: 
+Network: 
+Server: 
+<<<<<<< HEAD
+Theme: arc
+=======
+Theme: default
+>>>>>>> 1c76607 (2)
