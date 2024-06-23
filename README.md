@@ -28,6 +28,3 @@ Settings:
 Select Theme: Allows selecting a preferred theme for the application.
 Save Settings: Saves settings such as IP addresses, network addresses, servers, etc., to a text file.
 Change Theme: Allows changing the currently selected theme to another one.
-=======
-# NetworkTool
->>>>>>> 1c76607 (2)
