@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NetworkTool
 
 To fully operate the program, the installation of nmap is required!
